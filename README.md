@@ -51,7 +51,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/miguel-jaber-a0602326a/" target="_blank">
+  <a href="https://www.linkedin.com/in/migueljaber" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="69" height="45" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/migueljaber_/" target="_blank">
